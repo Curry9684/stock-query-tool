@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# 編輯器 / 機器專屬（含寫死的本機路徑，不上傳）
+.vscode/
+*.command
