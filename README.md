@@ -32,6 +32,10 @@ Python 視窗程式小組報告。本模組負責 **Request function**：向外�
    ```
    依畫面提示輸入股票與期間即可。
 
+## 報告投影片
+
+`股票查詢器_Request_function.pptx` — Request function 的期中報告投影片（含實際執行結果）。
+
 ## 資料來源
 
 - 台灣證券交易所（TWSE）公開 API：開高低收量、三大法人（T86）、股票清單
